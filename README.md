@@ -1,56 +1,74 @@
 # Hi, I’m Ruohan Sun 👋
 
-I’m interested in data analytics, statistical modeling, and turning
-complex datasets into clear, useful insights.
+I’m a Statistics graduate from the University of British Columbia with a foundation in statistical learning, Bayesian modeling, databases, and applied machine learning.
 
-My project experience spans movie ratings, employee attrition,
-housing prices, and public health. I work with Python, R, SQL,
-and MongoDB, with an emphasis on communicating results clearly
-and understanding the limitations behind them.
+I’m currently developing toward **AI and agent-based products**—especially systems that connect model capabilities with practical user needs. I’m interested not only in how models are built, but also in how AI workflows are designed, evaluated, and translated into reliable product experiences.
+
+My background gives me a quantitative perspective on AI: working with imperfect data, reasoning about uncertainty, evaluating model behavior, and communicating technical results clearly.
+
+## 🔭 Current Focus
+
+* Preparing for graduate study in artificial intelligence
+* Exploring AI agents, workflow design, and model evaluation
+* Connecting statistical and machine learning methods with AI product decisions
+* Building the technical judgment needed to work across users, models, data, and engineering
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, R, SQL
-- **Databases:** Oracle SQL, MongoDB
-- **Methods:** Exploratory data analysis, logistic regression,
-  regularization, Bayesian modeling, and data visualization
-- **Tools:** Git, GitHub, Jupyter Notebook, R Markdown, Stan
+* **Programming:** Python, R, SQL, Java
+* **Machine Learning & Statistics:** Statistical learning, logistic regression, regularization, Bayesian modeling, experimental design, and time series analysis
+* **Data & Databases:** Data cleaning, exploratory analysis, relational data modeling, Oracle SQL, and MongoDB
+* **Bayesian Computing:** Stan, CmdStanR, MCMC, variational inference, posterior predictive checks, and hierarchical modeling
+* **Development & Analysis:** Git, GitHub, Jupyter Notebook, R Markdown, ggplot2, and scikit-learn
+* **AI Product Work:** Requirements definition, agent workflow design, prompt development, output evaluation, and translating user needs into technical specifications
 
 ## 📂 Selected Projects
 
-### 🎬 Movie Ratings Analysis
-Exploring relationships between audience ratings, critic scores,
-popularity, and Oscar recognition using SQL, MongoDB, and Python.
+### 🏠 [Bayesian House Price Modeling](https://github.com/HaoyuYou/Bayesian-Statistics-Project)
 
-[View project](https://github.com/Sabrina310/movie-ratings-analysis)
+Studied uncertainty in house-price modeling using Bayesian Gaussian regression on the Ames Housing dataset. The project compares Hamiltonian Monte Carlo with mean-field variational inference and specifies a hierarchical extension for neighborhood-level variation.
 
-### 🏠 Bayesian House Price Modeling
-Comparing MCMC and variational inference for Bayesian house price
-modeling, with a proposed hierarchical extension.
-My contributions included hierarchical model development,
-interpretation of comparison results, and final report writing.
+My contributions included developing the hierarchical model, interpreting the inference comparison, and writing the final report.
 
-[View project](https://github.com/HaoyuYou/Bayesian-Statistics-Project)
+**Methods and tools:** R, Stan, CmdStanR, MCMC, variational inference, hierarchical modeling, and posterior predictive checks
 
-### 👥 Employee Attrition Analysis
-Investigating employee turnover patterns using logistic regression,
-Lasso regression, and visualizations in R.
+---
 
-[View project](https://github.com/Sabrina310/Stat301-Group26)
+### 🎬 [Movie Ratings Across IMDb, Rotten Tomatoes & the Oscars](https://github.com/Sabrina310/movie-ratings-analysis)
 
-### 🩺 Colorectal Cancer Mortality Analysis
-Studying associations between healthcare costs, early detection,
-and mortality outcomes in a Canadian subset of a colorectal
-cancer dataset.
+Integrated IMDb, Rotten Tomatoes, and Academy Awards data to examine relationships among audience ratings, critic scores, popularity, genre, and Oscar recognition for films released between 2016 and 2025.
 
-[View project](https://github.com/justinyyl/Colorectal_Cancer_Mortality_Canada)
+The project demonstrates relational database design, cross-source data matching, SQL queries, MongoDB aggregation pipelines, reproducible analysis, and careful interpretation of observational results.
 
-These are collaborative projects; team credits and available
-contribution details are included in the linked repositories.
+**Methods and tools:** Python, Oracle SQL, MongoDB, data integration, record matching, aggregation pipelines, and visualization
+
+---
+
+### 👥 [Employee Attrition Prediction](https://github.com/Sabrina310/Stat301-Group26)
+
+Investigated employee attrition patterns and developed predictive models using logistic regression and Lasso regularization. The analysis examined factors including salary tier, tenure, and time spent without an assigned project.
+
+**Methods and tools:** R, logistic regression, Lasso, cross-validation, feature selection, ggplot2, and glmnet
+
+---
+
+### 🩺 [Colorectal Cancer Mortality Analysis](https://github.com/justinyyl/Colorectal_Cancer_Mortality_Canada)
+
+Examined associations between healthcare costs, early detection, and colorectal cancer mortality in a Canadian subset of an international dataset.
+
+The project used logistic regression, AIC-based feature selection, and likelihood-ratio testing while explicitly considering the limitations of observational data and avoiding unsupported causal conclusions.
+
+**Methods and tools:** R, statistical inference, logistic regression, feature selection, hypothesis testing, and data visualization
+
+---
+
+These are collaborative academic projects. Team credits, methodological details, limitations, and available contribution records are included in the linked repositories.
 
 ## 🌱 Interests
 
-- Statistical learning and Bayesian inference
-- Reproducible data analysis
-- Clear visualizations and thoughtful interpretation
-- Applying data to practical questions
+* AI agents and agentic workflows
+* Reliable evaluation of AI system outputs
+* AI product design and human-centered applications
+* Statistical learning and probabilistic reasoning
+* Responsible use of data and uncertainty in decision-making
+* Translating technical capabilities into practical product experiences
